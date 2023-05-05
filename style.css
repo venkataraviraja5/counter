@@ -1,0 +1,30 @@
+#screen{
+    margin-left: 50%;
+    margin-top: 15%;
+    color: white;
+}
+#btn1{
+    margin-left: 550px;
+    height: 50px;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+}
+#btn2{
+    
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+
+}
+#btn3{
+    
+    height: 50px;
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+
+}
+body{
+    background-color: black;
+}
